@@ -1,0 +1,100 @@
+.dartle-brand-name {
+    color: rgb(255, 113, 47);
+    font-family: 'Fugaz One', cursive;
+    font-size: 1.8em;
+    margin-left: 5px;
+}
+
+.signup-button{
+    background-color: chocolate;
+    color: white;
+    height: fit-content;
+    margin-top: 4px;
+}
+
+.card:hover {
+    background-color: aliceblue;
+    background-color: rgba(231, 231, 231, 0.781);
+}
+
+.signin-button{
+    background-color:navy;
+    color: white;
+    height: fit-content;
+    margin-top: 4px;
+}
+/* .button-align { 
+    display: flex;
+    justify-content: flex-end;
+} */
+.section-main {
+    margin: 3em;
+}
+.section-head{
+    text-align: center;
+    color: rgb(99, 95, 95);
+}
+.card-details-list {
+    padding-left: 2rem;
+    font-size: 15px;
+    text-align: left;
+}
+
+option,label, select {
+    font-size: small;
+    background-color: transparent;
+    color: white;
+}
+option{
+    color: black;
+}
+
+.footer-links-dartle {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.footer-links-dartle :hover {
+    text-decoration: none;
+    color: yellowgreen
+}
+a :hover {
+    text-decoration: none;
+    color: orange;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: transparent;
+}
+  
+  /* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook-square {
+      color: white;
+}
+
+.fa-twitter-square {
+    color: white;
+}
+
+.fa-linkedin-square {
+    color: white;
+}
+
+.fab {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.fa-youtube-square {
+    color: white;
+}
